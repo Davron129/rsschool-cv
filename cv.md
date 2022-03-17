@@ -23,9 +23,10 @@ Hi, my name is Davron. I am a frontend developer with 10+ month commercial exper
 * Python (basic)
 
 ## Code Example
-[https://leetcode.com/problems/fibonacci-number/]Fibonacci Number
 
-```
+https://leetcode.com/problems/fibonacci-number
+
+```javascript
 var fib = function(n) {
     let a=0;
     let b=1;
@@ -48,4 +49,4 @@ var fib = function(n) {
 
 ## Education
 * Tashkent University of Informational Technologies (2019 - 2023)
-* * Major: Economy and Management in the sphere IT
+  * Major: Economy and Management in the sphere IT
