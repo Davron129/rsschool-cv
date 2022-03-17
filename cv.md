@@ -24,9 +24,7 @@ Hi, my name is Davron. I am a frontend developer with 10+ month commercial exper
 
 ## Code Example
 
-[Fibonacci Number]
-
-[Fibonacci Number]: (https://leetcode.com/problems/fibonacci-number)
+https://leetcode.com/problems/fibonacci-number
 
 ```javascript
 var fib = function(n) {
